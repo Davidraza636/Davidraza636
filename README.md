@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidraza636
 - 👀 I’m interested in ... Ai and machine learning
-- 🌱 I’m currently learning ... Pythone 
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
